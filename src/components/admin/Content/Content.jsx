@@ -1,7 +1,7 @@
 import React from "react";
 import { Routes, Route } from "react-router-dom";
 import Home from "../../../pages/admin/Home/Home";
-import ManageStudents from "../../../pages/Admin/ManageStudents/ManageStudents";
+import ManageStudents from "../../../pages/admin/ManageStudents/ManageStudents";
 import NewPlacement from "../../../pages/admin/NewPlacements/NewPlacement";
 import Responses from "../../../pages/Admin/Responses/Responses";
 import EditStatus from "../../../pages/Admin/EditStatus/EditStatus";
