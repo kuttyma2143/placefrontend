@@ -1,7 +1,7 @@
 import React, { useEffect, useContext } from "react";
 import { useNavigate } from "react-router-dom";
 import { Context } from "../../utils/ContextProvider";
-import placementcell from "../../assets/place.jpg";
+import placementcell from "../../assets/PLACE.JPG";
 import gg from "../../assets/GGG.svg"
 // import { GoogleButton } from "react-google-button";
 
